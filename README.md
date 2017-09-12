@@ -1,6 +1,8 @@
 c4 - C in four functions
 ========================
 
+add
+
 An exercise in minimalism.
 
 Try the following:
