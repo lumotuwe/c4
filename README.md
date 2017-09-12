@@ -28,6 +28,5 @@ Try the following:
 
 commit other
 
-old
 
 just for test
