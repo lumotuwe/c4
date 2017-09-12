@@ -1,7 +1,6 @@
 c4 - C in four functions
 ========================
 
-oo
 
 
 o
